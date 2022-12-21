@@ -1,0 +1,8 @@
+font-face {
+font-family: 'MENLO';
+src: url('https://static1.squarespace.com/static/604b4597840ff412f143f419/t/63a2d124ca07762bafe369a3/1671614757915/Menlo-Regular.ttf');
+}
+
+p {
+font-family: 'MENLO';
+}
